@@ -60,4 +60,4 @@ kali系统使用apt-get install freetds-dev 命令安装
 # 特别说明
 1.此工具仅限于漏洞验证，如若使用者引起相关的法律责任请自负，开发者不承担连带责任。
 
-2.感谢@小葵师傅的指点。
+2.感谢[@小葵](https://github.com/yuxiaokui)师傅的指点。
